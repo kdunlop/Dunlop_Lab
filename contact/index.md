@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are located at the Centre for Depression & Suicide Studies at St. Michel's Hospital in Toronto, Canada. Please feel
+We are located at the Centre for Depression & Suicide Studies at St. Michel's Hospital in Toronto, Canada. 
 
 {%
   include button.html
