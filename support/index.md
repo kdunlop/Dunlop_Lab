@@ -12,7 +12,7 @@ If you are in Canada and you’re in crisis or worried about someone who is, you
 
 {%
   include button.html
-  type="phone"
+  type="home-page"
   text="Canadian Support Services Directory"
   link="https://suicideprevention.ca/resources/"
 %}
@@ -21,7 +21,7 @@ If you are in Canada and you’re in crisis or worried about someone who is, you
 
 {%
   include button.html
-  type="phone"
+  type="home-page"
   text="UofT Support & Services Directory"
   link="https://suicideprevention.ca/resources/](https://mentalhealth.utoronto.ca/find-support-and-services/"
 %}
