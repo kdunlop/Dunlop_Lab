@@ -4,6 +4,8 @@ subtitle: University of Toronto
 description: 
 header: images/home_1.jpg
 footer: images/UofT.png
+header-dark: false
+footer-dark: false
 proofer: false
 
 # site social media and other links
