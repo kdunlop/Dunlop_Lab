@@ -1,176 +1,818 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: pubmed:38951585
+  title: Breakthroughs and challenges for generating brain network-based biomarkers
+    of treatment response in depression.
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  - Sapolnach Prompiengchai
+  - Katharine Dunlop
+  publisher: 'Neuropsychopharmacology : official publication of the American College
+    of Neuropsychopharmacology'
+  date: '2024-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38951585
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38679324
+  title: Atypical Brain Aging and Its Association With Working Memory Performance
+    in Major Depressive Disorder.
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+  - Natalie C W Ho
+  - Richard A I Bethlehem
+  - Jakob Seidlitz
+  - Nikita Nogovitsyn
+  - Paul Metzak
+  - Pedro L Ballester
+  - Stefanie Hassel
+  - Susan Rotzinger
+  - Jordan Poppenk
+  - Raymond W Lam
+  - Valerie H Taylor
+  - Roumen Milev
+  - Edward T Bullmore
+  - Aaron F Alexander-Bloch
+  - Benicio N Frey
+  - Kate L Harkness
+  - Jean Addington
+  - Sidney H Kennedy
+  - Katharine Dunlop
+  publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
+  date: '2024-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38679324
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38290583
+  title: An empirical analysis of structural neuroimaging profiles in a staging model
+    of depression.
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  - Nikita Nogovitsyn
+  - Pedro Ballester
+  - Mike Lasby
+  - Katharine Dunlop
+  - Amanda K Ceniti
+  - Scott Squires
+  - Jessie Rowe
+  - Keith Ho
+  - JeeSu Suh
+  - Stefanie Hassel
+  - Roberto Souza
+  - Raphael F Casseb
+  - Jacqueline K Harris
+  - Mojdeh Zamyadi
+  - Stephen R Arnott
+  - Stephen C Strother
+  - Geoffrey Hall
+  - Raymond W Lam
+  - Jordan Poppenk
+  - Catherine Lebel
+  - Signe Bray
+  - Paul Metzak
+  - Bradley J MacIntosh
+  - Benjamin I Goldstein
+  - JianLi Wang
+  - Sakina J Rizvi
+  - Glenda MacQueen
+  - Jean Addington
+  - Kate L Harkness
+  - Susan Rotzinger
+  - Sidney H Kennedy
+  - Benicio N Frey
+  publisher: Journal of affective disorders
+  date: '2024-01-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38290583
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38280408
+  title: Dimensional and Categorical Solutions to Parsing Depression Heterogeneity
+    in a Large Single-Site Sample.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+  - Katharine Dunlop
+  - Logan Grosenick
+  - Jonathan Downar
+  - Fidel Vila-Rodriguez
+  - Faith M Gunning
+  - Zafiris J Daskalakis
+  - Daniel M Blumberger
+  - Conor Liston
+  publisher: Biological psychiatry
+  date: '2024-01-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38280408
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37028903
+  title: 'Establishing the Clinical Potential of Brain Aging in Depression: Implications
+    for Suicidality and Antidepressant Response.'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
+  - Natalie C W Ho
+  - Katharine Dunlop
+  publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
+  date: '2023-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37028903
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36624107
+  title: 'Gray matter volume drives the brain age gap in schizophrenia: a SHAP study.'
+  authors:
+  - Pedro L Ballester
+  - Jee Su Suh
+  - Natalie C W Ho
+  - Liangbing Liang
+  - Stefanie Hassel
+  - Stephen C Strother
+  - Stephen R Arnott
+  - Luciano Minuzzi
+  - Roberto B Sassi
+  - Raymond W Lam
+  - Roumen Milev
+  - "Daniel J M\xFCller"
+  - Valerie H Taylor
+  - Sidney H Kennedy
+  - James P Reilly
+  - Lena Palaniyappan
+  - Katharine Dunlop
+  - Benicio N Frey
+  publisher: Schizophrenia (Heidelberg, Germany)
+  date: '2023-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36624107
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36171190
+  title: Regional gene expression signatures are associated with sex-specific functional
+    connectivity changes in depression.
+  authors:
+  - Aleksandr Talishinsky
+  - Jonathan Downar
+  - "Petra E V\xE9rtes"
+  - Jakob Seidlitz
+  - Katharine Dunlop
+  - Charles J Lynch
+  - Heather Whalley
+  - Andrew McIntosh
+  - Fidel Vila-Rodriguez
+  - Zafiris J Daskalakis
+  - Daniel M Blumberger
+  - Conor Liston
+  publisher: Nature communications
+  date: '2022-09-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36171190
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36055538
+  title: Cardiovascular biomarkers of response to accelerated low frequency repetitive
+    transcranial magnetic stimulation in major depression.
+  authors:
+  - Jack Z Sheen
+  - Jean-Philippe Miron
+  - Farrokh Mansouri
+  - Katharine Dunlop
+  - Thomas Russell
+  - Ryan Zhou
+  - Molly Hyde
+  - Linsay Fox
+  - Helena Voetterl
+  - Zafiris J Daskalakis
+  - John D Griffiths
+  - Daniel M Blumberger
+  - Jonathan Downar
+  publisher: Journal of affective disorders
+  date: '2022-08-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36055538
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35936944
+  title: 'Neuroimaging Correlates of Treatment Response with Psychedelics in Major
+    Depressive Disorder: A Systematic Review.'
+  authors:
+  - Sarah Kuburi
+  - Anne-Marie Di Passa
+  - Vanessa K Tassone
+  - Raesham Mahmood
+  - Aleksandra Lalovic
+  - Karim S Ladha
+  - Katharine Dunlop
+  - Sakina Rizvi
+  - Ilya Demchenko
+  - Venkat Bhat
+  publisher: Chronic stress (Thousand Oaks, Calif.)
+  date: '2022-08-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35936944
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35895056
+  title: 'Comparison of Functional and Structural Neural Network Features in Older
+    Adults With Depression With vs Without Apathy and Association With Response to
+    Escitalopram: Secondary Analysis of a Nonrandomized Clinical Trial.'
+  authors:
+  - Lauren E Oberlin
+  - Lindsay W Victoria
+  - Irena Ilieva
+  - Katharine Dunlop
+  - Matthew J Hoptman
+  - Jimmy Avari
+  - George S Alexopoulos
+  - Faith M Gunning
+  publisher: JAMA network open
+  date: '2022-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35895056
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35722550
+  title: 'Intrinsic Connectivity Networks of Glutamate-Mediated Antidepressant Response:
+    A Neuroimaging Review.'
+  authors:
+  - Ilya Demchenko
+  - Vanessa K Tassone
+  - Sidney H Kennedy
+  - Katharine Dunlop
+  - Venkat Bhat
+  publisher: Frontiers in psychiatry
+  date: '2022-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35722550
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34412936
+  title: Estimated Regional White Matter Hyperintensity Burden, Resting State Functional
+    Connectivity, and Cognitive Functions in Older Adults.
+  authors:
+  - Abhishek Jaywant
+  - Katharine Dunlop
+  - Lindsay W Victoria
+  - Lauren Oberlin
+  - Charles J Lynch
+  - Matteo Respino
+  - Amy Kuceyeski
+  - Matthew Scult
+  - Matthew J Hoptman
+  - Conor Liston
+  - Michael W O'Dell
+  - George S Alexopoulos
+  - Roy H Perlis
+  - Faith M Gunning
+  publisher: 'The American journal of geriatric psychiatry : official journal of the
+    American Association for Geriatric Psychiatry'
+  date: '2021-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34412936
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33865456
+  title: 'A pilot trial of repetitive transcranial magnetic stimulation of the dorsomedial
+    prefrontal cortex in anorexia nervosa: resting fMRI correlates of response.'
+  authors:
+  - D Blake Woodside
+  - Katharine Dunlop
+  - Charlene Sathi
+  - Eileen Lam
+  - Brigitte McDonald
+  - Jonathan Downar
+  publisher: Journal of eating disorders
+  date: '2021-04-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33865456
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33495545
+  title: Accelerated brain aging predicts impulsivity and symptom severity in depression.
+  authors:
+  - Katharine Dunlop
+  - Lindsay W Victoria
+  - Jonathan Downar
+  - Faith M Gunning
+  - Conor Liston
+  publisher: 'Neuropsychopharmacology : official publication of the American College
+    of Neuropsychopharmacology'
+  date: '2021-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33495545
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32376080
+  title: Resting State Functional Connectivity and Outcomes of Psychotherapies for
+    Late-Life Depression.
+  authors:
+  - Nili Solomonov
+  - Lindsay W Victoria
+  - Katharine Dunlop
+  - Matteo Respino
+  - Matthew J Hoptman
+  - Sigal Zilcha-Mano
+  - Lauren Oberlin
+  - Conor Liston
+  - "Patricia A Are\xE1n"
+  - Faith M Gunning
+  - George S Alexopoulos
+  publisher: 'The American journal of geriatric psychiatry : official journal of the
+    American Association for Geriatric Psychiatry'
+  date: '2020-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32376080
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32349119
+  title: 'Clinical, behavioral, and neural measures of reward processing correlate
+    with escitalopram response in depression: a Canadian Biomarker Integration Network
+    in Depression (CAN-BIND-1) Report.'
+  authors:
+  - Katharine Dunlop
+  - Sakina J Rizvi
+  - Sidney H Kennedy
+  - Stefanie Hassel
+  - Stephen C Strother
+  - Jacqueline K Harris
+  - Mojdeh Zamyadi
+  - Stephen R Arnott
+  - Andrew D Davis
+  - Farrokh Mansouri
+  - Laura Schulze
+  - Amanda K Ceniti
+  - Raymond W Lam
+  - Roumen Milev
+  - Susan Rotzinger
+  - Jane A Foster
+  - Benicio N Frey
+  - Sagar V Parikh
+  - Claudio N Soares
+  - Rudolf Uher
+  - Gustavo Turecki
+  - Glenda M MacQueen
+  - Jonathan Downar
+  publisher: 'Neuropsychopharmacology : official publication of the American College
+    of Neuropsychopharmacology'
+  date: '2020-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32349119
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31711880
+  title: "Dorsomedial prefrontal cortex repetitive transcranial magnetic stimulation\
+    \ for treatment-refractory major depressive disorder: A\_three-arm, blinded, randomized\
+    \ controlled trial."
+  authors:
+  - Katharine Dunlop
+  - Jack Sheen
+  - Laura Schulze
+  - Peter Fettes
+  - Farrokh Mansouri
+  - Kfir Feffer
+  - Daniel M Blumberger
+  - Zafiris J Daskalakis
+  - Sidney H Kennedy
+  - Peter Giacobbe
+  - Blake Woodside
+  - Jonathan Downar
+  publisher: Brain stimulation
+  date: '2019-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31711880
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31410661
+  title: 'Intrinsic Brain Network Biomarkers of Antidepressant Response: a Review.'
+  authors:
+  - Katharine Dunlop
+  - Aleksandr Talishinsky
+  - Conor Liston
+  publisher: Current psychiatry reports
+  date: '2019-08-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31410661
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30309958
+  title: Stress response regulation and the hemodynamic response.
+  authors:
+  - Katharine Dunlop
+  - Conor Liston
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2018-10-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30309958
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29746646
+  title: Corticostriatal Connectivity in Antisocial Personality Disorder by MAO-A
+    Genotype and Its Relationship to Aggressive Behavior.
+  authors:
+  - Nathan J Kolla
+  - Katharine Dunlop
+  - Jeffrey H Meyer
+  - Jonathan Downar
+  publisher: The international journal of neuropsychopharmacology
+  date: '2018-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29746646
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29628066
+  title: Abnormal Functional Connectivity of Frontopolar Subregions in Treatment-Nonresponsive
+    Major Depressive Disorder.
+  authors:
+  - Peter W Fettes
+  - Massieh Moayedi
+  - Katharine Dunlop
+  - Farrokh Mansouri
+  - Fidel Vila-Rodriguez
+  - Peter Giacobbe
+  - Karen D Davis
+  - Raymond W Lam
+  - Sidney H Kennedy
+  - Zafiris J Daskalakis
+  - Daniel M Blumberger
+  - Jonathan Downar
+  publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
+  date: '2017-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29628066
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28815666
+  title: 'Dorsomedial prefrontal cortex repetitive transcranial magnetic stimulation
+    treatment of posttraumatic stress disorder in eating disorders: An open-label
+    case series.'
+  authors:
+  - D Blake Woodside
+  - Patricia Colton
+  - Eileen Lam
+  - Katharine Dunlop
+  - Julia Rzeszutek
+  - Jonathan Downar
+  publisher: The International journal of eating disorders
+  date: '2017-08-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28815666
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28775678
+  title: A Fast EEG Forecasting Algorithm for Phase-Locked Transcranial Electrical
+    Stimulation of the Human Brain.
+  authors:
+  - Farrokh Mansouri
+  - Katharine Dunlop
+  - Peter Giacobbe
+  - Jonathan Downar
+  - "Jos\xE9 Zariffa"
+  publisher: Frontiers in neuroscience
+  date: '2017-07-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28775678
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28669908
+  title: Modulation of cognitive cerebello-cerebral functional connectivity by lateral
+    cerebellar continuous theta burst stimulation.
+  authors:
+  - Anuj Rastogi
+  - Robin Cash
+  - Katharine Dunlop
+  - Michael Vesia
+  - Aaron Kucyi
+  - Ayda Ghahremani
+  - Jonathan Downar
+  - Joyce Chen
+  - Robert Chen
+  publisher: NeuroImage
+  date: '2017-06-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28669908
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28267225
+  title: "Ensuring that novel resting-state fMRI metrics are physiologically grounded,\
+    \ interpretable and meaningful (A commentary on Canna et\_al., 2017)."
+  authors:
+  - Katharine Dunlop
+  - Jonathan Downar
+  publisher: The European journal of neuroscience
+  date: '2017-03-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28267225
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28170383
+  title: 'Erratum: Resting-state connectivity biomarkers define neurophysiological
+    subtypes of depression.'
+  authors:
+  - Andrew T Drysdale
+  - Logan Grosenick
+  - Jonathan Downar
+  - Katharine Dunlop
+  - Farrokh Mansouri
+  - Yue Meng
+  - Robert N Fetcho
+  - Benjamin Zebley
+  - Desmond J Oathes
+  - Amit Etkin
+  - Alan F Schatzberg
+  - Keith Sudheimer
+  - Jennifer Keller
+  - Helen S Mayberg
+  - Faith M Gunning
+  - George S Alexopoulos
+  - Michael D Fox
+  - Alvaro Pascual-Leone
+  - Henning U Voss
+  - B J Casey
+  - Marc J Dubin
+  - Conor Liston
+  publisher: Nature medicine
+  date: '2017-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28170383
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28082874
+  title: 'Cortico-Striatal-Thalamic Loop Circuits of the Salience Network: A Central
+    Pathway in Psychiatric Disease and Treatment.'
+  authors:
+  - Sarah K Peters
+  - Katharine Dunlop
+  - Jonathan Downar
+  publisher: Frontiers in systems neuroscience
+  date: '2016-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28082874
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27918562
+  title: Resting-state connectivity biomarkers define neurophysiological subtypes
+    of depression.
+  authors:
+  - Andrew T Drysdale
+  - Logan Grosenick
+  - Jonathan Downar
+  - Katharine Dunlop
+  - Farrokh Mansouri
+  - Yue Meng
+  - Robert N Fetcho
+  - Benjamin Zebley
+  - Desmond J Oathes
+  - Amit Etkin
+  - Alan F Schatzberg
+  - Keith Sudheimer
+  - Jennifer Keller
+  - Helen S Mayberg
+  - Faith M Gunning
+  - George S Alexopoulos
+  - Michael D Fox
+  - Alvaro Pascual-Leone
+  - Henning U Voss
+  - B J Casey
+  - Marc J Dubin
+  - Conor Liston
+  publisher: Nature medicine
+  date: '2016-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27918562
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27042293
+  title: 'Brainhack: a collaborative workshop for the open neuroscience community.'
+  authors:
+  - R Cameron Craddock
+  - Daniel S Margulies
+  - Pierre Bellec
+  - B Nolan Nichols
+  - Sarael Alcauter
+  - Fernando A Barrios
+  - Yves Burnod
+  - Christopher J Cannistraci
+  - Julien Cohen-Adad
+  - Benjamin De Leener
+  - Sebastien Dery
+  - Jonathan Downar
+  - Katharine Dunlop
+  - Alexandre R Franco
+  - Caroline Seligman Froehlich
+  - Andrew J Gerber
+  - Satrajit S Ghosh
+  - Thomas J Grabowski
+  - Sean Hill
+  - "Anibal S\xF3lon Heinsfeld"
+  - R Matthew Hutchison
+  - Prantik Kundu
+  - Angela R Laird
+  - Sook-Lei Liew
+  - Daniel J Lurie
+  - Donald G McLaren
+  - Felipe Meneguzzi
+  - Maarten Mennes
+  - Salma Mesmoudi
+  - David O'Connor
+  - Erick H Pasaye
+  - Scott Peltier
+  - Jean-Baptiste Poline
+  - Gautam Prasad
+  - Ramon Fraga Pereira
+  - Pierre-Olivier Quirion
+  - Ariel Rokem
+  - Ziad S Saad
+  - Yonggang Shi
+  - Stephen C Strother
+  - Roberto Toro
+  - Lucina Q Uddin
+  - John D Van Horn
+  - John W Van Meter
+  - Robert C Welsh
+  - Ting Xu
   publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+  date: '2016-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27042293
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26909013
+  title: Targeting Neural Endophenotypes of Eating Disorders with Non-invasive Brain
+    Stimulation.
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+  - Katharine A Dunlop
+  - Blake Woodside
+  - Jonathan Downar
+  publisher: Frontiers in neuroscience
+  date: '2016-02-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26909013
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26908392
+  title: 'Association of ventral striatum monoamine oxidase-A binding and functional
+    connectivity in antisocial personality disorder with high impulsivity: A positron
+    emission tomography and functional magnetic resonance imaging study.'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  - Nathan J Kolla
+  - Katharine Dunlop
+  - Jonathan Downar
+  - Paul Links
+  - R Michael Bagby
+  - Alan A Wilson
+  - Sylvain Houle
+  - Fawn Rasquinha
+  - Alexander I Simpson
+  - Jeffrey H Meyer
+  publisher: 'European neuropsychopharmacology : the journal of the European College
+    of Neuropsychopharmacology'
+  date: '2015-12-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26908392
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26849183
+  title: Noninvasive brain stimulation treatments for addiction and major depression.
+  authors:
+  - Katharine Dunlop
+  - Colleen A Hanlon
+  - Jonathan Downar
+  publisher: Annals of the New York Academy of Sciences
+  date: '2016-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26849183
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26440813
+  title: Reductions in Cortico-Striatal Hyperconnectivity Accompany Successful Treatment
+    of Obsessive-Compulsive Disorder with Dorsomedial Prefrontal rTMS.
+  authors:
+  - Katharine Dunlop
+  - Blake Woodside
+  - Marion Olmsted
+  - Patricia Colton
+  - Peter Giacobbe
+  - Jonathan Downar
+  publisher: 'Neuropsychopharmacology : official publication of the American College
+    of Neuropsychopharmacology'
+  date: '2015-10-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26440813
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26327307
+  title: MRI-guided dmPFC-rTMS as a Treatment for Treatment-resistant Major Depressive
+    Disorder.
+  authors:
+  - Katharine Dunlop
+  - Pauline Gaprielian
+  - Daniel Blumberger
+  - Zafiris J Daskalakis
+  - Sidney H Kennedy
+  - Peter Giacobbe
+  - Jonathan Downar
+  publisher: 'Journal of visualized experiments : JoVE'
+  date: '2015-08-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26327307
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26199873
+  title: Increases in frontostriatal connectivity are associated with response to
+    dorsomedial repetitive transcranial magnetic stimulation in refractory binge/purge
+    behaviors.
+  authors:
+  - Katharine Dunlop
+  - Blake Woodside
+  - Eileen Lam
+  - Marion Olmsted
+  - Patricia Colton
+  - Peter Giacobbe
+  - Jonathan Downar
+  publisher: NeuroImage. Clinical
+  date: '2015-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26199873
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25470392
+  title: The putative impact of metabolic health on default mode network activity
+    and functional connectivity in neuropsychiatric disorders.
+  authors:
+  - Danielle S Cha
+  - Francesco De Michele
+  - Joanna K Soczynska
+  - Hanna O Woldeyohannes
+  - Oksana Kaidanovich-Beilin
+  - Andre F Carvalho
+  - Gin S Malhi
+  - Hiren Patel
+  - Kang Sim
+  - Elisa Brietzke
+  - Rodrigo Mansur
+  - Katharine A M Dunlop
+  - Mohammad Alsuwaidan
+  - Anusha Baskaran
+  - Andrea Fagiolini
+  - Roman Reznikov
+  - Paul A Kudlow
+  - Roger S McIntyre
+  publisher: CNS & neurological disorders drug targets
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25470392
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24927720
+  title: Connectivity-based parcellation of the human frontal polar cortex.
+  authors:
+  - Massieh Moayedi
+  - Tim V Salomons
+  - Katharine A M Dunlop
+  - Jonathan Downar
+  - Karen D Davis
+  publisher: Brain structure & function
+  date: '2014-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24927720
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24388670
+  title: Anhedonia and reward-circuit connectivity distinguish nonresponders from
+    responders to dorsomedial prefrontal repetitive transcranial magnetic stimulation
+    in major depression.
+  authors:
+  - Jonathan Downar
+  - Joseph Geraci
+  - Tim V Salomons
+  - Katharine Dunlop
+  - Sarah Wheeler
+  - Mary Pat McAndrews
+  - Nathan Bakker
+  - Daniel M Blumberger
+  - Zafiris J Daskalakis
+  - Sidney H Kennedy
+  - Alastair J Flint
+  - Peter Giacobbe
+  publisher: Biological psychiatry
+  date: '2013-11-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24388670
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24150516
+  title: Resting-state cortico-thalamic-striatal connectivity predicts response to
+    dorsomedial prefrontal rTMS in major depressive disorder.
+  authors:
+  - Tim V Salomons
+  - Katharine Dunlop
+  - Sidney H Kennedy
+  - Alastair Flint
+  - Joseph Geraci
+  - Peter Giacobbe
+  - Jonathan Downar
+  publisher: 'Neuropsychopharmacology : official publication of the American College
+    of Neuropsychopharmacology'
+  date: '2013-09-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24150516
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -184,9 +826,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +842,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
