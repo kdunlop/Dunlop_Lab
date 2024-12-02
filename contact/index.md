@@ -25,19 +25,3 @@ We are located at the Centre for Depression & Suicide Studies at St. Michel's Ho
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/NZunscFGLAv5pNZD9"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
