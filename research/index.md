@@ -2,26 +2,26 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Ongoing Work
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-## Highlighted
+## Current Projects
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% capture text %}
+<ins>Biomarkers of Suicide Risk</ins> <br>
+**Methods**: Task fMRI, Task EEG <br>
+**Rationale**: Major depressive disorder (MDD) is the most common mental disorder among suicide deaths, the ninth leading cause of death in Canada. Currently, suicidal patients respond less favourably to antidepressant treatment than those without, stressing the urgent need to understand behavioural and biological factors underlying suicidality in the hopes of developing tailored treatments. We propose that one way to better understand these factors is to elucidate the neurobiological link between suicide and comorbid symptoms. In projects funded by the American Foundation for Suicide Prevention, and in collaboration with Stanford University, we are using task-based neuroimaging to understand how specific symptoms interplay with suicide risk.
 
-{% include section.html %}
+{:.center}
+{% endcapture %}
 
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+{%
+  include feature.html
+  image="images/res_1.png"
+  headline="Biomarkers of suicide risk"
+  text=text
+%}
