@@ -5,7 +5,7 @@ role: Principal Investigator
 affiliation: Principal Investigator
 
 links:
-  home-page: [https://scholar.google.ca/citations?user=-gQYNskAAAAJ&hl=en]
+  home-page: https://scholar.google.ca/citations?user=-gQYNskAAAAJ&hl=en
   orcid: 0000-0001-8713-9213
 ---
 
