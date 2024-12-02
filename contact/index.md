@@ -17,7 +17,7 @@ We are located at the Centre for Depression & Suicide Studies at St. Michel's Ho
 {%
   include button.html
   type="phone"
-  text="416-864-6060x4078
+  text="416-864-6060-4078
 %}
 {%
   include button.html
