@@ -1,3 +1,9 @@
+---
+title: Participate in a Study
+nav:
+  order: 4
+  tooltip: Join Us
+---
 {% include section.html %}
 
 # Currently Recruiting Studies
