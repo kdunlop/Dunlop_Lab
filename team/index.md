@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
@@ -23,3 +23,6 @@ Undergraduate Students
 - Anna Mouzenian
 - Sapolnach Prompiengchai
 
+Medical Students
+- Abigail Iyekekpolor
+- Sami Sabbah
