@@ -1,4 +1,4 @@
-# Support % Resources
+# Support and Resources
 
 ## If you are in crisis and having suicidal thoughts, please seek immediate help by calling 911 or visiting your closest emergency department. 
 
