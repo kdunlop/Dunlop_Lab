@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40086895
+  title: 'When, How, and Where: Combining Psychotherapy and Neuromodulation for Obsessive-Compulsive
+    Disorder.'
+  authors:
+  - Sarah Ann Smith
+  - Katharine Dunlop
+  publisher: Biological psychiatry
+  date: '2025-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40086895
+  term: Dunlop, Katharine[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38951585
   title: Breakthroughs and challenges for generating brain network-based biomarkers
     of treatment response in depression.
